@@ -1,7 +1,5 @@
 <h1 align="center">
 
-<img width="300" src="https://yt3.googleusercontent.com/A0N50mnvhnO-wtiTKa1rVJ46QcDBxV8304HFQBrwWpsSs0RWCPI3alNeyn6G3ITaUoJIBfA6Ag=s900-c-k-c0x00ffffff-no-rj"><img width="300" src="https://static3.tgstat.ru/channels/_0/f9/f9355ba522050fc5c636a07e4b6562cf.jpg">
-
 <br> RasiTechRobot
  
  > This script is run using the node-telegram-bot-api library
