@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<br> RasiTechRobot
+<br> Mecha-Telebot
  
  > This script is run using the node-telegram-bot-api library
  
